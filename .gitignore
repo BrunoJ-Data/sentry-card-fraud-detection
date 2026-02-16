@@ -1,0 +1,27 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+
+# fichiers locaux inutiles
+.vscode/
+
+#variables sensibles
+.env
+
+# --- SÉCURITÉ & DONNÉES ---
+*.csv
+*.xlsx
+*.zip
