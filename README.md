@@ -8,8 +8,8 @@ I wanted a user friendly interface, focusing on most important.
  The system compares incoming transactions against a "Customer Profile" ( average spending, usual distance from home) which is stored in internal database.
 
 
-
 The objective is to detect suspicious credit card transactions by analyzing customer behavior and transaction anomalies.
+
 https://sentry-fraud-detector.streamlit.app
 ---
 
