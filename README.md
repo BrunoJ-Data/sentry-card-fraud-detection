@@ -54,6 +54,12 @@ The system uses:
 
 The model outputs a **fraud probability score**, which is then combined with rule-based alerts.
 
+#### Model Performance Results
+<p align="center">
+  <img src="./images/Matrice_de_Confusion_ModelXGB.jpg" width="48%" alt="Confusion Matrix XGBoost" />
+  <img src="./images/Classification_Report.jpg" width="48%" alt="Classification Report" />
+</p>
+
 ---
 
 # 🟢 Fraud Detection Logic
