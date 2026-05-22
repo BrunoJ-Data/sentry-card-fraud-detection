@@ -21,7 +21,7 @@ The system analyzes **credit card transactions** and evaluates the probability o
 - A **Machine Learning model**
 - **Business rules** commonly used in fraud detection systems
 
-The project is based on a **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**.I cleaned the dataset with Pandas.
+The project is based on a **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**. I cleaned the dataset with Pandas.
 
 ---
 
