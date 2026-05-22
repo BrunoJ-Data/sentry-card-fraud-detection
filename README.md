@@ -27,7 +27,7 @@ The project is based on a **Credit Card Transactions generated using Sparkov, co
 
 # 📊 Dataset & Feature Engineering
 
-Data was **cleaned** and processed using **Pandas**.
+Data was **cleaned** and **processed** using **Pandas**.
 
 Key features used in the model include:
 
