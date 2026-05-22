@@ -120,5 +120,4 @@ Next development steps:
 
 # 📌 Project Goal
 
-This project aims to demonstrate how **machine learning and rule-based systems can be combined to detect financial fraud**
-by using a user-friendly interface.
+This project aims to demonstrate how **machine learning and rule-based systems can be combined to detect financial fraud**.
