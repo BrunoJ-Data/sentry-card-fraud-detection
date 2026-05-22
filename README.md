@@ -4,7 +4,7 @@
 This personal project was developed during my intensive Data Analysis program.  
 It simulates a **real-time card banking fraud detection system** combining **Machine Learning** and **rule-based detection**.
 
-I wanted a user friendly interface, focusing on most important.
+I wanted a user friendly interface, focusing on most important indicators.
  The system compares incoming transactions against a "Customer Profile" ( average spending, usual distance from home) which is stored in internal database.
 
 
