@@ -1,7 +1,7 @@
 # 🛡️ Sentry – Fraud card Detection Engine
 
 
-This personal project was developed during my intensive Data Analysis program.  
+This personal project was developed during my  Data Analysis studies.  
 It simulates a **real-time card banking fraud detection system** combining **Machine Learning** and **rule-based detection**.
 
 I wanted a user friendly interface, focusing on most important indicators.
