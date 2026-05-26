@@ -21,7 +21,7 @@ The system analyzes **credit card transactions** and evaluates the probability o
 - A **Machine Learning model**
 - **Business rules** commonly used in fraud detection systems
 
-The project is based on Kaggle dataset “credit Card Transactions Fraud Detection Dataset'' a set of **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**. 
+The project is based on Kaggle dataset “Credit Card Transactions Fraud Detection Dataset'' a set of **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**. 
 
 ---
 
