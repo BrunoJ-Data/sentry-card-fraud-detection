@@ -10,7 +10,7 @@ I wanted a user friendly interface, focusing on most important indicators.
 
 The objective is to detect suspicious credit card transactions by analyzing customer behavior and transaction anomalies.
 
- 🚀 **click** **Live Demo** : https://sentry-fraud-detector.streamlit.app
+ 🚀 **click**|**Live Demo** : https://sentry-fraud-detector.streamlit.app
 
 ---
 
