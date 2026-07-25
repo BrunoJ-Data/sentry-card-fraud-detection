@@ -87,8 +87,7 @@ A **Streamlit dashboard** allows users to:
   <img src="./images/pics_app.jpg" alt="Confusion Matrix XGBoost" width="45%">
 </p>
 
-**Live Demo**:
-👉https://sentry-fraud-detector.streamlit.app
+👉 **Click** **Live Demo** : https://sentry-fraud-detector.streamlit.app
 ---
 
 # 🛠️ Tech Stack
