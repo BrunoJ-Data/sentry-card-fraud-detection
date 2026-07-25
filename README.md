@@ -83,13 +83,12 @@ A **Streamlit dashboard** allows users to:
 - Trigger rule-based alerts
 -  Understand the reasons behind suspicious transaction flags
 
+ **Live Demo**:
+👉https://sentry-fraud-detector.streamlit.app
   <p align="center">
   <img src="./images/pics_app.jpg" alt="Confusion Matrix XGBoost" width="45%">
 </p>
 
-**Live Demo**:
-
-👉https://sentry-fraud-detector.streamlit.app
 
 ---
 
