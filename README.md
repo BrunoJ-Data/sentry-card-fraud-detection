@@ -13,17 +13,20 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 
  👉 **Click** **Live Demo** : https://sentry-fraud-detector.streamlit.app
  
-***
+---
 
 
- 📓 Notebook & Python
+# 📓 Notebook & Python
 
 full Data Science pipeline (data cleaning, feature engineering, model training, evaluation) in the Jupyter Notebook: :
 
 👉 [View the Full Notebook](./detection_fraude_pipeline_complet.ipynb)
 
 👉  [Python source](./app.py)
----
+
+
+
+
 
 # 🎯 Project Overview
 
