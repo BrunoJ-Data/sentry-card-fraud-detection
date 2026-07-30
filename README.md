@@ -16,7 +16,7 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 ---
 
 
-###📓 Notebook & Python/Sreamlit
+# 📓 Notebook & Python/Sreamlit
 
 full Data Science pipeline (data cleaning, feature engineering, model training, evaluation) in the Jupyter Notebook: :
 
