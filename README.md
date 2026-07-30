@@ -10,7 +10,14 @@ I wanted a user friendly interface, focusing on most important indicators.
 
 The objective is to detect suspicious credit card transactions by analyzing customer behavior and transaction anomalies.
 
+
  👉 **Click** **Live Demo** : https://sentry-fraud-detector.streamlit.app
+
+ # 📓 Notebook d'Analyse & Modélisation
+
+Retrouvez l'ensemble de la démarche (nettoyage, feature engineering, comparaison RandomForest/XGBoost et visualisations) dans le notebook Jupyter :
+
+👉 [Consulter le Notebook complet (Detection_Fraude_Pipeline_Complet.ipynb)](./Detection_Fraude_Pipeline_Complet.ipynb)
 
 ---
 
