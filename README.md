@@ -19,7 +19,7 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 
 full Data Science pipeline (data cleaning, feature engineering, model training, evaluation) in the Jupyter Notebook: :
 
-👉 [Consulter le Notebook complet (detection_fraude_pipeline_Complet.ipynb)](./Detection_Fraude_Pipeline_Complet.ipynb)
+👉 [View the Full Notebook](./detection_fraude_pipeline_complet.ipynb)
 
 ---
 
