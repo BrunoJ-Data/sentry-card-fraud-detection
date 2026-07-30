@@ -22,6 +22,7 @@ full Data Science pipeline (data cleaning, feature engineering, model training, 
 
 👉 [View the Full Notebook](./detection_fraude_pipeline_complet.ipynb)
 
+---
 
 # 🎯 Project Overview
 
