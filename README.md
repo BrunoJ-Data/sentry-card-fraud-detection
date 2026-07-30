@@ -12,12 +12,14 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 
 
  👉 **Click** **Live Demo** : https://sentry-fraud-detector.streamlit.app
+ 
+---
 
  # 📓 Notebook d'Analyse & Modélisation
 
 Retrouvez l'ensemble de la démarche (nettoyage, feature engineering, comparaison RandomForest/XGBoost et visualisations) dans le notebook Jupyter :
 
-👉 [Consulter le Notebook complet (Detection_Fraude_Pipeline_Complet.ipynb)](./Detection_Fraude_Pipeline_Complet.ipynb)
+👉 [Consulter le Notebook complet (detection_fraude_pipeline_Complet.ipynb)](./Detection_Fraude_Pipeline_Complet.ipynb)
 
 ---
 
