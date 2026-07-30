@@ -15,16 +15,6 @@ The objective is to detect suspicious credit card transactions by analyzing cust
  
 ---
 
-# 🎯 Project Overview
-
-The system analyzes **credit card transactions** and evaluates the probability of fraud using:
-
-- A **Machine Learning model**
-- **Business rules** commonly used in fraud detection systems
-
-The project is based on Kaggle dataset “Credit Card Transactions Fraud Detection Dataset'' a set of **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**. 
-
----
 
  # 📓 Analysis & Modeling Notebook
 
@@ -33,6 +23,14 @@ full Data Science pipeline (data cleaning, feature engineering, model training, 
 👉 [View the Full Notebook](./detection_fraude_pipeline_complet.ipynb)
 
 
+# 🎯 Project Overview
+
+The system analyzes **credit card transactions** and evaluates the probability of fraud using:
+
+- A **Machine Learning model**
+- **Business rules** commonly used in fraud detection systems
+
+The project is based on Kaggle dataset “Credit Card Transactions Fraud Detection Dataset'' a set of **Credit Card Transactions generated using Sparkov, containing ~1 million transactions**. 
 
 ---
 
