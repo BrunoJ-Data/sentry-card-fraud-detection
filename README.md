@@ -12,6 +12,7 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 
 
  👉 **Click** **Live demo** : https://sentry-fraud-detector.streamlit.app
+ 
 ---
 
 
