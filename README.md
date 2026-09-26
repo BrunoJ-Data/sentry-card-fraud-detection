@@ -13,6 +13,7 @@ The objective is to detect suspicious credit card transactions by analyzing cust
 
  👉 **Click** **Live demo** : https://sentry-fraud-detector.streamlit.app
  
+ ## 🇫🇷 Version française Système de détection de fraudes à la carte bancaire, basé sur une approche hybride mêlant Machine Learning et règles métiers afin de détecter des anomalies.
 ---
 
 
